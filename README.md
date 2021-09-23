@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning about penetration testing through a Pentester Lab, and am currently in high school.
 
-- 📫 Email me at jdlarson47@gmail.com if you want to contact me about jobs or anything at all.
+- 📫 Email me at jdlarson47@gmail.com if you want to contact me about anything
 
 
